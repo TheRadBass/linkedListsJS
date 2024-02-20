@@ -16,7 +16,7 @@ The modules consist of 3 files:
     3. size() // Returns the size of the list (Number of nodes)
     4. getHead() // Returns the first node of the list
     5. getTail() //Returns the last node of the list
-    6. atIndex(index) // Returns the value at the given index
+    6. at(index) // Returns the value at the given index
     7. pop() // Deletes the reference to the last node in the list, second to last becomes the tail.
     8. contains(value) // Returns True or False depending if the value exists in any of the list's nodes.
     9. find(value) // Returns the index number of the given value if it exists in the list.
